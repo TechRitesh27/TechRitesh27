@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 Currently I am at P99Soft
 
 Now i am trying Squash and pick and revert
+hii bro
 
 ....
 
